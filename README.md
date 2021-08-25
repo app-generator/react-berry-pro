@@ -4,6 +4,11 @@ Berry is developer-friendly & highly customizable React Admin Template based on 
 
 <br />
 
+- [Full-stack React Berry PRO](https://appseed.us/full-stack/react-berry-dashboard) - product page
+- [Full-stack React Berry PRO](https://fullstack-react-berry-dashboard.appseed-srv1.com/) - LIVE Demo
+
+<br />
+
 > Features
 
 - Modern aesthetics Material-UI design - Designed by [CodedThemes](https://codedthemes.com/)
