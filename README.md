@@ -12,7 +12,7 @@ Berry is developer-friendly & highly customizable React Admin Template based on 
 > Features
 
 - Modern aesthetics Material-UI design - Designed by [CodedThemes](https://codedthemes.com/)
-- M-UI version: 
+- M-UI version: v5.0.0
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
 - For a complete full-stack experience, the product can be used with:
