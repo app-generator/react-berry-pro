@@ -4,14 +4,15 @@ Berry is developer-friendly & highly customizable React Admin Template based on 
 
 <br />
 
-- [Full-stack React Berry PRO](https://appseed.us/full-stack/react-berry-dashboard) - product page
-- [Full-stack React Berry PRO](https://fullstack-react-berry-dashboard.appseed-srv1.com/) - LIVE Demo
+-   [Full-stack React Berry PRO](https://appseed.us/full-stack/react-berry-dashboard) - product page
+-   [Full-stack React Berry PRO](https://fullstack-react-berry-dashboard.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
 > Features
 
 - Modern aesthetics Material-UI design - Designed by [CodedThemes](https://codedthemes.com/)
+- M-UI version: 
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
 - For a complete full-stack experience, the product can be used with:
@@ -19,8 +20,8 @@ Berry is developer-friendly & highly customizable React Admin Template based on 
   - [Flask API Server](https://docs.appseed.us/boilerplate-code/api-server/flask) - open-source product
   - [Node JS API Server](https://docs.appseed.us/boilerplate-code/api-server/node-js) - open-source product / Typescript / SQLite / TypeORM / Joy for validation
   - [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **commercial product**
-      - SQLite / TypeORM / Joy / Docker
-      - MongoDB / Mongoose / Joy Docker (separate branch, same project)
+    - SQLite / TypeORM / Joy / Docker
+    - MongoDB / Mongoose / Joy Docker (separate branch, same project)
 
 <br />
 
@@ -54,7 +55,7 @@ $ yarn
 **Step #3** - Start in development mode
 
 ```bash
-$ npm run start 
+$ npm run start
 // OR
 $ yarn start
 ```
@@ -63,9 +64,9 @@ $ yarn start
 
 ## Configure the backend server
 
-The product comes with a usable JWT Authentication flow that provides only the basic requests: login/logout/register. 
+The product comes with a usable JWT Authentication flow that provides only the basic requests: login/logout/register.
 
-**API Server URL** - `src/config.js` 
+**API Server URL** - `src/config.js`
 
 ```javascript
 const config = {
@@ -76,15 +77,15 @@ const config = {
 
 <br />
 
-> **API Descriptor** 
+> **API Descriptor**
 
 The product uses implements a **Unified API definition** exposed by all API servers crafted by AppSeed. For more information, please access the official documentation:
 
-- All [API Servers](https://docs.appseed.us/boilerplate-code/api-server) - the full index
-- [Unified API Definition](https://docs.appseed.us/boilerplate-code/api-server/api-unified-definition) - methods implemented accross all servers
-
+-   All [API Servers](https://docs.appseed.us/boilerplate-code/api-server) - the full index
+-   [Unified API Definition](https://docs.appseed.us/boilerplate-code/api-server/api-unified-definition) - methods implemented accross all servers
 
 <br />
 
 ---
+
 Berry React PRO - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
