@@ -25,6 +25,27 @@ Berry is developer-friendly & highly customizable React Admin Template based on 
 
 <br />
 
+## Quick Start in [Docker](https://www.docker.com/)
+
+> Get the code
+
+```bash
+$ git clone https://github.com/app-generator/priv-react-berry-dashboard-pro.git
+$ cd priv-react-berry-dashboard-pro
+```
+
+> Start the app in Docker
+
+```bash
+$ docker-compose pull  # download dependencies 
+$ docker-compose build # local set up
+$ docker-compose up    # start the app 
+```
+
+The React UI starts on port `3000` and expects an API server on port `5000` (saved in configuration).
+
+<br />
+
 ![Full-stack Berry Dashboard PRO - Full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/130806897-ee251104-94d2-4446-9ba0-be79a37030d6.jpg)
 
 <br />

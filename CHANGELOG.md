@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.2] 2021-11-22
+### Added Docker Support
+
+- Usage documented in the README - new files:
+  - Dokerfile
+  - docker-compose.yml
+
 ## [1.0.1] 2021-10-25
 ### Improvements
 
