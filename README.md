@@ -1,8 +1,8 @@
-# [Berry React PRO](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/)
+# [Full-stack React Berry PRO](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/)
 
 Berry is developer-friendly & highly customizable React Admin Template based on Material-UI. This modern design comes with plenty of ready-to-use Material-UI components that will help you to build your site faster and saves your development time. The product comes with a simple JWT authentication flow: login/register/logout.
 
-- [Berry React PRO](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/) - `Product page`
+- [Full-stack React Berry PRO](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/) - `Product page`
 - [Full-stack React Berry PRO](https://fullstack-react-berry-dashboard.appseed-srv1.com/) - `LIVE Demo`
 
 <br />
@@ -106,4 +106,4 @@ The product uses implements a **Unified API definition** exposed by all API serv
 <br />
 
 ---
-[Berry React PRO](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/) - Provided by [CodedThemes](https://app-generator.dev/agency/codedthemes/) and **[App Generator](https://app-generator.dev/)**.
+[Full-stack React Berry PRO](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/) - Provided by [CodedThemes](https://app-generator.dev/agency/codedthemes/) and **[App Generator](https://app-generator.dev/)**.
