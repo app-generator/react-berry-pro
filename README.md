@@ -1,17 +1,15 @@
-# Berry React PRO
+# [Berry React PRO](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/)
 
 Berry is developer-friendly & highly customizable React Admin Template based on Material-UI. This modern design comes with plenty of ready-to-use Material-UI components that will help you to build your site faster and saves your development time. The product comes with a simple JWT authentication flow: login/register/logout.
 
-<br />
-
--   [Full-stack React Berry PRO](https://appseed.us/full-stack/react-berry-dashboard) - product page
--   [Full-stack React Berry PRO](https://fullstack-react-berry-dashboard.appseed-srv1.com/) - LIVE Demo
+- [Berry React PRO](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/) - `Product page`
+- [Full-stack React Berry PRO](https://fullstack-react-berry-dashboard.appseed-srv1.com/) - `LIVE Demo`
 
 <br />
 
 > Features
 
-- Modern aesthetics Material-UI design - Designed by [CodedThemes](https://codedthemes.com/)
+- Modern aesthetics Material-UI design - Designed by [CodedThemes](https://app-generator.dev/agency/codedthemes/)
 - M-UI version: v5.0.0
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
@@ -27,11 +25,11 @@ Berry is developer-friendly & highly customizable React Admin Template based on 
 
 ## Quick Start in [Docker](https://www.docker.com/)
 
-> Get the code
+> Get the code (requires a purchase from the official [product page](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/) )
 
 ```bash
-$ git clone https://github.com/app-generator/priv-react-berry-dashboard-pro.git
-$ cd priv-react-berry-dashboard-pro
+$ unzip react-berry-dashboard-pro.zip
+$ cd react-berry-dashboard-pro
 ```
 
 > Start the app in Docker
@@ -108,5 +106,4 @@ The product uses implements a **Unified API definition** exposed by all API serv
 <br />
 
 ---
-
-Berry React PRO - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
+[Berry React PRO](https://app-generator.dev/product/berry-dashboard-pro/fullstack/react/) - Provided by [CodedThemes](https://app-generator.dev/agency/codedthemes/) and **[App Generator](https://app-generator.dev/)**.
